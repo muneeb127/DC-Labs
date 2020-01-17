@@ -1,0 +1,6 @@
+C:\Users\Muneeb-PC\source\repos\client-server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Muneeb-PC\source\repos\client-server\server\bin\Debug\server.exe
+C:\Users\Muneeb-PC\source\repos\client-server\server\bin\Debug\server.pdb
+C:\Users\Muneeb-PC\source\repos\client-server\server\obj\Debug\server.exe
+C:\Users\Muneeb-PC\source\repos\client-server\server\obj\Debug\server.pdb
+C:\Users\Muneeb-PC\source\repos\client-server\server\bin\Debug\server.exe.config
